@@ -3,8 +3,8 @@
 ### Day 1: December 28 2020, Monday
 **Today's Progress**: I started the 100 days of coding today, and am very excited!
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**I completed the JavaScript30 Project #1. It was thorough, and I had to debug several times to get the code correct. I uswed HTML5, CSS, and JavaScript,
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Dr. Vicki's Drums](https://github.com/DrVicki/Dr_Vickis_Drums)
+
