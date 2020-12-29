@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Dr. Vicki's Log
 
 ### Day 1: December 28 2020, Monday
 **Today's Progress**: I started the 100 days of coding today, and am very excited!
