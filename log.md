@@ -24,7 +24,7 @@
 **Link(s) to work**
 1. [Dr. Vicki's CSS Variables](https://github.com/DrVicki/Dr-Vickis-CSS-Variables)
 
-### Day 4/100: December 31 2020, Thursday
+### Day 5/100: December 31 2020, Thursday
 **Today's Progress**: I completed a project creating 8 array exercises built with HTML, CSS, and JS.
 
 **Thoughts**I completed the JavaScript30 Project #4. It was fantastic to get so much work using arrays hands-on!
