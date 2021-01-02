@@ -32,7 +32,7 @@
 **Link(s) to work**
 1. [Dr. Vicki's Array Cardio](https://github.com/DrVicki/Dr-Vickis-Array-Cardio)
 
-### Day 4/100: January 1 2021, Friday
+### Day 5/100: January 1 2021, Friday
 **Today's Progress**: I completed a project creatingImage Gallery Flex grids which shrink and grow with event listeners, and text that disappears and reappears on click, built with HTML, CSS, and JS.
 
 **Thoughts**I completed the JavaScript30 Project #5. It was fantastic to get so much work using Flex Grids hands-on!
