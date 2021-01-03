@@ -39,3 +39,12 @@
 
 **Link(s) to work**
 1. [Dr. Vicki's Flex Grid Image Gallery](https://https://github.com/DrVicki/Dr-Vickis_Flex_Grid_Image_Gallery)
+
+### Day 6/100: January 2 2021, Saturday
+**Today's Progress**: I completed a project creating search filters and promises for a City/State Search, built with HTML, CSS, and JS.
+
+**Thoughts**I completed the JavaScript30 Project #6. It was fantastic to get so much work hands-on!
+
+**Link(s) to work**
+1. [Dr. Vicki's Ajax Ahead](https://github.com/DrVicki/Dr-Vickis-Ajax-Ahead)
+
