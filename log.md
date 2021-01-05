@@ -56,3 +56,12 @@
 **Link(s) to work**
 1. [Dr. Vicki's Array Cardio 2](https://github.com/DrVicki/Dr-Vickis-Array-Cardio-2)
 
+### Day 8/100: January 4 2021, Monday
+**Today's Progress**: I completed a project creating an HTML canvas drawing application with HTML, CSS, and JS.
+
+**Thoughts**I completed the JavaScript30 Project #8. It was fantastic to get so much work hands-on!
+
+**Link(s) to work**
+1. [Dr. Vicki's HTML Canvas](https://github.com/DrVicki/Dr-Vickis-HTML-Canvas)
+
+
