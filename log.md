@@ -64,4 +64,12 @@
 **Link(s) to work**
 1. [Dr. Vicki's HTML Canvas](https://github.com/DrVicki/Dr-Vickis-HTML-Canvas)
 
+### Day 9/100: January 5 2021, Tuesday
+**Today's Progress**: I completed a project developing console and DOM tools with HTML, CSS, and JS.
+
+**Thoughts**I completed the JavaScript30 Project #9. It was fantastic to get so much work hands-on in the console!
+
+**Link(s) to work**
+1. [Dr. Vicki's Dev Tools Domination](https://github.com/DrVicki/Dr-Vickis-Dev-Tools-Domination)
+
 
