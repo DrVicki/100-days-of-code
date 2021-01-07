@@ -75,9 +75,9 @@
 ### Day 10/100: January 6 2021, Wednesday
 **Today's Progress**: I completed a project developing a one-page site with images and hyperlinks, using HTML, CSS, and JS.
 
-**Thoughts**I completed the JavaScript30 Project #10. It was fantastic to get so much work hands-on!
+**Thoughts**I completed the JavaScript30 Project #10. 
 
 **Link(s) to work**
-1. [Dr. Vicki's Tutorials Domination]https://github.com/DrVicki/Dr-Vickis-Tutorials)
+1. [Dr. Vicki's Tutorials](https://github.com/DrVicki/Dr-Vickis-Tutorials)
 
 
