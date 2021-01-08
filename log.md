@@ -75,9 +75,17 @@
 ### Day 10/100: January 6 2021, Wednesday
 **Today's Progress**: I completed a project developing a one-page site with images and hyperlinks, using HTML, CSS, and JS.
 
-**Thoughts**I completed the JavaScript30 Project #10. 
+**Thoughts**I completed the one-page site project. 
 
 **Link(s) to work**
 1. [Dr. Vicki's Tutorials](https://github.com/DrVicki/Dr-Vickis-Tutorials)
+
+### Day 11/100: January 8 2021,Friday
+**Today's Progress**: I completed a project developing a hold-shift checkboxes, using HTML, CSS, and JS.
+
+**Thoughts**I completed the JavaScript30 Project #10. 
+
+**Link(s) to work**
+1. [Dr. Vicki's HoldShift Checkboxes](https://github.com/DrVicki/Dr-Vickis-HoldShift-Checkboxes)
 
 
