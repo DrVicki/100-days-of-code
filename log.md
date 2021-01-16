@@ -88,4 +88,12 @@
 **Link(s) to work**
 1. [Dr. Vicki's HoldShift Checkboxes](https://github.com/DrVicki/Dr-Vickis-HoldShift-Checkboxes)
 
+### Day 12/100: January 14 2021Thursday
+**Today's Progress**: I completed a project developing a retrieve images from reddit project..
+
+**Thoughts**I completed the project.
+
+**Link(s) to work**
+1. [AJAX-Reddit](https://github.com/DrVicki/ajax-reddit)
+
 
