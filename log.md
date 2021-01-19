@@ -113,4 +113,12 @@
 **Link(s) to work**
 1. [Dr. Vicki's Memory Game](https://github.com/DrVicki/memory-game)
 
+### Day 15/100: January 19, 2021 TuesdayMonday
+**Today's Progress**: Used Next.js to spin up a new React application to manage & display products & added Snipcart to provide our shopping cart experience, to provide a way for people to purchase products.
+
+**Thoughts**This project was very satifying and fun!
+
+**Link(s) to work**
+1. [Dr. Vicki's eCommerce App](https://github.com/DrVicki/next-snipcart-store)
+
 
