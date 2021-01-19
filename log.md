@@ -105,4 +105,12 @@
 **Link(s) to work**
 1. [Dr. Vicki's Top News](https://github.com/DrVicki/Dr-Vickis-NYT-Top-News)
 
+### Day 14/100: January 18, 2021 Monday
+**Today's Progress**: I completed a project developing a retrieve images from reddit project..
+
+**Thoughts**I completed and edited the project, usinh HTML, CSS, JavaScript, Axios, and Vue.
+
+**Link(s) to work**
+1. [Dr. Vicki's Top News](https://github.com/DrVicki/Dr-Vickis-NYT-Top-News)
+
 
