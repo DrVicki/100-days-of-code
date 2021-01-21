@@ -121,4 +121,20 @@
 **Link(s) to work**
 1. [Dr. Vicki's eCommerce App](https://github.com/DrVicki/next-snipcart-store)
 
+### Day 16/100: January 20, 2021 Wednesday
+**Today's Progress**: Used Next.js to spin up a new React application to manage & display products & added Snipcart to provide our shopping cart experience, to provide a way for people to purchase products.
+
+**Thoughts**This project was very satifying and fun!
+
+**Link(s) to work**
+1. [Dr. Vicki's eCommerce App](https://github.com/DrVicki/next-snipcart-store)
+
+### Day 17/100: January 21, 2021 Thursday
+**Today's Progress**: The Hangman is a simple project developed using HTML5, CSS, and JavaScript. This game is about guessing letters (A-Z) to form the words. You have to find the word by selecting a letter each time.
+
+**Thoughts**This project was very satifying and fun!
+
+**Link(s) to work**
+1. [Dr. Vicki's Hangman Game](https://github.com/DrVicki/Dr-Vickis-Hangman-Game)
+
 
